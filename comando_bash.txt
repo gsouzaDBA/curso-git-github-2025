@@ -1,1 +1,4 @@
 ls -> Lista arquivos, igual ao dir no windows
+cd -> move entre diretorios
+pwd -> mostra diretório de trabalho
+cat -> Mostra o conteúdo do arquivo
