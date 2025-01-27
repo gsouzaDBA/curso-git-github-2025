@@ -1,1 +1,2 @@
 git status -> 
+git log -> Mostra o históricp de commits

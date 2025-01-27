@@ -2,3 +2,15 @@ ls -> Lista arquivos, igual ao dir no windows
 cd -> move entre diretorios
 pwd -> mostra diretório de trabalho
 cat -> Mostra o conteúdo do arquivo
+
+## fluxo de trabalho
+
+1. Criar o diretório do projeto
+2. iniciar o git dentro do diretório criado (git init .)
+3. edita ou cria arquivos
+4. git status
+5. git add <nome arquivo>
+6. git status
+7. git commit -m "mensagem - descricao do git"
+8. git status
+9.  
