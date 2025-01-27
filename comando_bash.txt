@@ -1,0 +1,1 @@
+ls -> Lista arquivos, igual ao dir no windows
