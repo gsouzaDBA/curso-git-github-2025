@@ -13,4 +13,4 @@ cat -> Mostra o conteúdo do arquivo
 6. git status
 7. git commit -m "mensagem - descricao do git"
 8. git status
-9.  
+9. volta para o passo 3.
